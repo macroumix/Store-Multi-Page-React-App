@@ -1,0 +1,45 @@
+.header{
+    text-align: center;
+    padding: 15px;
+    background-image: url("../images/6.jpeg");
+    background-size: cover;
+}
+
+.parag{
+    padding-left: 25px;
+}
+
+.intro {
+    display: grid;
+    grid-template-columns: 5fr 10fr 5fr;
+}
+
+
+.imgsm{
+    height: 100%;
+    width: 100%;
+}
+
+.imgfull{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+.done {
+ 	text-decoration:line-through; 
+}
+
+h1 {
+ 	font-size:25px; 
+    position:relative;
+}
+
+.face {
+    width: 200px;
+    height: 250px;
+    position: absolute;
+    top: 75px;
+    
+}

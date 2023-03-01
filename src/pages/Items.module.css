@@ -1,0 +1,27 @@
+.ul {
+    list-style: none;
+}
+
+.ul > li {
+    padding: 5px;
+}
+
+.text-sm {
+    font-size: 0.69rem;
+}
+
+.img {
+    height: 150px;
+    width: 250px;
+}
+
+.button {
+    width: 75px;
+    height: 35px;
+}
+
+.xbutton {
+    height: 1px;
+}
+
+
